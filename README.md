@@ -22,7 +22,8 @@ The repository is broken down into a few key Python files:
 
 1.  `introPython.py`: Journey Starts! Lots of fun ahead learning basic concepts of python.
 2.  `func&Classes.py`: A quick look at why and how to use functions and classes to keep your code from becoming a tangled mess.Your first step into NumPy for fast and efficient math on large datasets.
-3. More soon
+3.  `NumPy-intro.py`: Your first step into NumPy for fast and efficient math on large datasets. Complete overview how NumPy works.
+4.  
 
 -----
 
