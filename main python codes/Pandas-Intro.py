@@ -97,9 +97,10 @@ df.isna().sum()
 print('The no. of nulls in each column is \n',df.isnull().sum())
 df.dropna(axis = 1, inplace = False)
 
-#Sort in ascending order of sale_amount and store the result in another frame
+# 8. Sort in ascending order of sale_amount and store the result in another frame
 df1 = sales_df.copy()
 df1['sale_date'] = pd.to_datetime(df1['sale_date'])
 df1.sort_values("sale_date", inplace=True)
 print(df1)
+
 
