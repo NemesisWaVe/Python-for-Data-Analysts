@@ -23,7 +23,8 @@ The repository is broken down into a few key Python files:
 1.  `introPython.py`: Journey Starts! Lots of fun ahead learning basic concepts of python.
 2.  `func&Classes.py`: A quick look at why and how to use functions and classes to keep your code from becoming a tangled mess.
 3.  `NumPy-intro.py`: Your first step into NumPy for fast and efficient math on large datasets. Complete overview how NumPy works.
-4.  
+4.  `Pandas-Intro.py`: 🐼 An introduction to Pandas, the most powerful library for data manipulation. Learn how to use DataFrames to work with structured data.
+5.  `sales_data.csv`: A sample CSV file containing sales data, used in our Pandas introduction to demonstrate real-world data handling.
 
 -----
 
