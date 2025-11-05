@@ -1,11 +1,12 @@
 # A Data Analyst's Notebook: Python Essentials 🐍
 
-### 👋 Hey there\!
+### Hey there\!
 
 Welcome\! I put this repository together to share foundational Python concepts and code snippets that I've found most useful in my data analysis work. My goal wasn't to create another dense, technical manual, but a simple, practical, and human-friendly starting point.
 
 > Think of this as a collection of notes—the kind of stuff I wish someone had shown me when I was just getting started.
 
+####BONUS: I have provided a hands on Data Visualisation and Processing Lab style work for you if you are doing well with python basics and data analysts functionalities, you can directly hop onto 
 -----
 
 ### 💡 My Philosophy for this Repo
