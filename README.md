@@ -6,7 +6,7 @@ Welcome\! I put this repository together to share foundational Python concepts a
 
 > Think of this as a collection of notes—the kind of stuff I wish someone had shown me when I was just getting started.
 
-####BONUS: I have provided a hands on Data Visualisation and Processing Lab style work for you if you are doing well with python basics and data analysts functionalities, you can directly hop onto 
+#### BONUS: I have provided a hands on Data Visualisation and Processing Lab style work for you if you are doing well with python basics and data analysts functionalities, you can directly hop onto 
 -----
 
 ### 💡 My Philosophy for this Repo
